@@ -1,5 +1,6 @@
 # ezlib2proc
-Python TUI tool to wrap lib2proc and make loading/unloading libraries easier | Support for Mono
+
+Python TUI for `lib2proc` injector. Wraps it into an easy to use interface with hot reloading and injection allowing for dynamic unloading and loading without having to restart `lib2proc`. Made to make my life easier while developing, thought I'd share with the public.
 
 # Usage
 
